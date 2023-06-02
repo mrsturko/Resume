@@ -1,7 +1,11 @@
+html{
+    background-color: antiquewhite;
+}
 *{
     text-align: center;
   }
 h1{
+    background-color: whitesmoke;
     color: cornflowerblue;
 }
   #work-experience{
